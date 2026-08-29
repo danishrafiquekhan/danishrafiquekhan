@@ -1,23 +1,24 @@
-### Hi, I'm Danish Khan
+### Danish Khan
 
-Security engineer focused on Microsoft identity, detection engineering, and cloud security. I'm building out a hands-on portfolio of detection rules, attack simulations, and automation as I work through a structured detection-engineering and cloud-security study plan.
+I work in support/infra roles and I'm moving toward detection engineering and identity security. Right now that means Microsoft identity (Entra ID, Sentinel), some AWS, and enough Terraform to not be dangerous with it.
 
-- 🔗 LinkedIn: [add your LinkedIn URL here]
-- 📄 Certifications: [add here, e.g. SC-100, SC-300, SC-200, AZ-104]
-- 🧪 Currently working through: Sigma/KQL detection engineering, Atomic Red Team validation, Sentinel SOAR automation, AWS identity detection, and Terraform on Azure
+This account is where I keep the actual work instead of just talking about it — Sigma rules, a self-hosted SIEM I run locally, attack simulations, some Terraform labs. Most of it is unfinished on purpose; I'd rather show real progress than a repo that looks done and isn't.
 
-#### Pinned work
+LinkedIn: [add link]
+Certs so far: [SC-100 / SC-300 / SC-200 / AZ-104 — fill in whichever you've actually passed]
 
-- **detection-engineering** — Sigma rules and KQL conversions mapped to MITRE ATT&CK
-- **atomic-red-team-validation** — attack simulation write-ups: technique → telemetry → detection → outcome
-- **sentinel-soar-playbooks** — automated triage playbooks for Microsoft Sentinel
-- **aws-identity-detection** — CloudTrail/GuardDuty detection work
-- **intune-endpoint-health-platform** — Intune endpoint health and application remediation platform
-- **terraform-labs** — Terraform Associate study labs on Azure
+What I'm poking at at the moment:
+- writing Sigma rules and converting them to KQL for Sentinel
+- running Wazuh + TheHive/Cortex locally instead of paying for cloud versions to practice on
+- Terraform on Azure, working through the Associate material
+- trying to close the AWS-side gap a few job postings called out
 
-Everything here is personal lab/portfolio work, not production systems, and all data is sanitised or synthetic.
+Repos worth looking at:
+- `detection-engineering` — the Sigma/KQL rules, mapped to ATT&CK
+- `atomic-red-team-validation` — running actual attacks in an isolated VM to see if my rules catch them
+- `sentinel-soar-playbooks` — automation, mostly TheHive/Cortex right now since that's free
+- `aws-identity-detection` — IAM privilege escalation detection, AWS side
+- `intune-endpoint-health-platform` — an Intune project I built at work-adjacent scale, migrating it in
+- `terraform-labs` — Associate study exercises, one folder per topic
 
-## One-time setup after cloning
-```bash
-git config core.hooksPath .githooks   # enables the gitleaks secret-scan on commit
-```
+None of this is production work and none of the data in here is real — sanitised or made up on purpose.

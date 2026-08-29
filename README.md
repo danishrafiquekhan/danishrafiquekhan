@@ -16,3 +16,8 @@ Security engineer focused on Microsoft identity, detection engineering, and clou
 - **terraform-labs** — Terraform Associate study labs on Azure
 
 Everything here is personal lab/portfolio work, not production systems, and all data is sanitised or synthetic.
+
+## One-time setup after cloning
+```bash
+git config core.hooksPath .githooks   # enables the gitleaks secret-scan on commit
+```

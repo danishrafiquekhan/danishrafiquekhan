@@ -5,7 +5,7 @@ I work in support/infra roles and I'm moving toward detection engineering and id
 This account is where I keep the actual work instead of just talking about it — Sigma rules, a self-hosted SIEM I run locally, attack simulations, some Terraform labs. Most of it is unfinished on purpose; I'd rather show real progress than a repo that looks done and isn't.
 
 LinkedIn: https://www.linkedin.com/in/danishrafiquekhan/
-Certs so far: [SC-100 / SC-300 / SC-200 / AZ-104 — fill in whichever you've actually passed]
+Certs so far: SC-100 / SC-300 / SC-200 / AZ-104 / MD-102 / SC-900 / ITIL 4
 
 What I'm poking at at the moment:
 - writing Sigma rules and converting them to KQL for Sentinel

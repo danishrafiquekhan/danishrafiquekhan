@@ -18,7 +18,6 @@ Repos worth looking at:
 - `atomic-red-team-validation` — running actual attacks in an isolated VM to see if my rules catch them
 - `sentinel-soar-playbooks` — automation, mostly TheHive/Cortex right now since that's free
 - `aws-identity-detection` — IAM privilege escalation detection, AWS side
-- `intune-endpoint-health-platform` — an Intune project I built at work-adjacent scale, migrating it in
 - `terraform-labs` — Associate study exercises, one folder per topic
 
 None of this is production work and none of the data in here is real — sanitised or made up on purpose.

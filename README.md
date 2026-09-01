@@ -7,7 +7,7 @@ This account is where I keep the actual work instead of just talking about it â€
 LinkedIn: https://www.linkedin.com/in/danishrafiquekhan/
 Certs so far: SC-100 / SC-300 / SC-200 / AZ-104 / MD-102 / SC-900 / ITIL 4
 
-What I'm poking at at the moment:
+What I am poking at the moment:
 - writing Sigma rules and converting them to KQL for Sentinel
 - running Wazuh + TheHive/Cortex locally instead of paying for cloud versions to practice on
 - Terraform on Azure, working through the Associate material

@@ -1,4 +1,4 @@
-### Danish Khan
+**Danish Khan**
 
 I work in support/infra roles and I am moving toward detection engineering and identity security. Right now that means Microsoft identity (Entra ID, Sentinel), some AWS, and enough Terraform to not be dangerous with it.
 
